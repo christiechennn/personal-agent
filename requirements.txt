@@ -1,0 +1,20 @@
+# pip install -r requirements.txt
+
+# pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+# 🔑 OAuth and API Clients
+google-auth
+google-auth-oauthlib
+google-api-python-client
+authlib               # For handling Uber OAuth2 flow
+requests
+
+# 🧠 LLM
+openai
+
+# 🌱 Env and Time Handling
+python-dotenv         # For managing secrets like API keys
+dateparser            # Natural language time parsing (e.g., “tomorrow at 8am”)
+
+# (Optional) Developer tools
+tqdm                  # Optional: for progress bars
