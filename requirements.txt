@@ -18,3 +18,4 @@ dateparser            # Natural language time parsing (e.g., â€œtomorrow at 8amâ
 
 # (Optional) Developer tools
 tqdm                  # Optional: for progress bars
+loguru                # logging
