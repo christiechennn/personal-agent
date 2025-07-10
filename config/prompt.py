@@ -23,11 +23,7 @@ PROMPT = """
             - Extract the message content from the user input (anything after "that" or following the recipient mention) and formalize it to make the content complete sentences.
             - Look up the email address from the contact list:
             {
-                "cym": "ymchen217@gmail.com",
-                "zby": "boeyzhang3@hotmail.com",
-                "chencym": "chencym@amazon.com",
-                "sen": "sen.zhuang92@gmail.com",
-                "fenhao": "zuolizhu5960x@gmail.com"
+                ...
             }
             - If you have both recipient and content, use:
                 <use_tool>send_email(recipient, content)</use_tool>
